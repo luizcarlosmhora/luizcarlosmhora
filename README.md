@@ -2,7 +2,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luizcarlosmhora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizcarlosmhora" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lucamartyns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucamartyns" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lucamartyns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucamartyns" height="30" width="40" /></a
+  <a href="malito:luizcarlos.mhora@gmail.com" target="blank"><img align="center" src="https://toppng.com/free-image/banner-royalty-free-stock-mail-png-icon-free-download-email-envelope-outline-shape-with-rounded-corners-PNG-free-PNG-Images_207521" alt="lucamartyns" height="30" width="40" /></a>
+
 </p>
 
 <div align="center">
