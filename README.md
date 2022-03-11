@@ -1,9 +1,12 @@
 ## Olá! eu sou o Luiz Carlos Martins!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://www.linkedin.com/in/luizcarlosmhora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luizcarlosmhora" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/lucamartyns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucamartyns" height="30" width="40" /></a>
-<a href = "mailto:luizcarlos.mhora@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lucamartyns" height="30" width="40" /></a>
+
+<a href = "mailto:luizcarlos.mhora@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lucamartyns" height="30" width="40" /></a>
 </p>
 
 
@@ -21,10 +24,4 @@
 </div>
   
   ##
- 
-<div> 
-  <a href="https://www.instagram.com/lucamartyns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:luizcarlos.mhora@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luizcarlosmhora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![Snake animation](https://github.com/luizcarlosmhora/luizcarlosmhora/blob/output/github-contribution-grid-snake.svg) </div>
+ ![Snake animation](https://github.com/luizcarlosmhora/luizcarlosmhora/blob/output/github-contribution-grid-snake.svg) </div>
