@@ -1,4 +1,4 @@
-## Olá! eu sou o Luiz Carlos Martins!
+## Olá! eu sou Luiz Carlos Martins!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
